@@ -1,4 +1,5 @@
-TOKEN = "YOUR_DISCORD_BOT_TOKEN"
-GUILD_ID = YOUR_GUILD_ID  # optional
-DOWNLOAD_URL = "https://github.com/luau-lang/luau/releases/latest/download/luau.exe"  # or .tar.gz for Linux
+TOKEN = "YOUR_DISCORD_BOT_TOKEN"  # Replace with your actual token
+
+DOWNLOAD_URL = "https://github.com/luau-lang/luau/releases/download/0.672/luau-windows.zip"
+ZIP_FILENAME = "luau-windows.zip"
 VM_FILENAME = "luau.exe"
